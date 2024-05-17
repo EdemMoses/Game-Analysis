@@ -20,6 +20,7 @@ README.md: Project documentation and overview.
 To set up the project locally, follow these steps:
 
 Clone the repository:  
+Open your terminal or command prompt and enter:  
 git clone https://github.com/EdemMoses/Game-Analysis.git
 cd Game-Analysis
 
