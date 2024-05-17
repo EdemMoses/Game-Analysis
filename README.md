@@ -33,9 +33,9 @@ Use the notebooks to clean and preprocess the collected data.
 Analyze the processed data using the notebooks provided. For instance, you can explore GAME ANALYSIS.ipynb for various analytical techniques.
 
 #### Visualization
-Generate visualizations using Microsoft PowerBI. T
+Generate visualizations using Microsoft PowerBI.  
 
-#### Contributing
+## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
 #### Fork the repository.
