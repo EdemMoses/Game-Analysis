@@ -13,7 +13,7 @@ The repository is contains:
 Raw data files and datasets used for analysis.  
 Jupyter notebooks for data processing, analysis, and visualization.  
 PDFs contains a set of instructions and question to be answered using SQL queries.  
-Output visualizations generated from the analysis using PowerBI.  
+Powerpoint file containing presentation on the findings.  
 README.md: Project documentation and overview.
 
 ## Installation
